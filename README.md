@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @seangelisms
 - 👀 I’m interested in UI/UX design, data analysis, and video game development.
-- 🌱 I’m currently learning HTML + SQL! Hoping to practice C++ and javaas well.
+- 🌱 I’m currently learning HTML + SQL mainly, but I'm also practicing C++! In the future, I want to learn python + javascript
 - 💞️ I’m looking to collaborate on video game projects/data analysis projects/web dev projects!
 - 📫 How to reach me TBA ...
 - 😄 Pronouns: they/she
